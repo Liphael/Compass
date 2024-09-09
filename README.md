@@ -49,9 +49,9 @@
 
 > To avoid unnecessary confusion, some necessary concepts are hereby declared to provide users with references they may need when attempting to write a knowledge unit page using Compass for the first time.
 
-单位：一个物件对象，或事件对象，或方法对象。这也是库结构中，每个子项的标题。
+单位：一个物件对象，或事件对象，或方法对象。这也是库结构中，每个子项的标题，是所记录知识对象的总标题。
 
-> Unit: an object, or event, or method. This is also the title of each sub-item among the repository.
+> Unit: an object, or event, or method. This is also the title of each sub-item among the repository, and the overall title of the knowledge object u want to record.
 
 单位页面：这个对象的详细信息页面。这是在库中对该对象展开详细描述和知识记录的页面，是指南针架构的应用处。
 
