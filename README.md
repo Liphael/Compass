@@ -42,7 +42,7 @@
 
 > From this point on, the development direction of the compass architecture should be: a logical (structural) hierarchy that is rigorous and concise, abstract and concrete that is polarized and harmonious in content, based on relatively fixed processes, and open source and customizable as extensions.
 
-## 用法 tutorial
+## 使用教程 tutorial
 ### 申明必要概念 Declaration of necessary concepts
 
 为了避免产生不必要的疑惑，在此申明一些必要的概念，以提供使用者在首次尝试使用Compass撰写知识单位页面时、可能所需的参照。
