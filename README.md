@@ -6,7 +6,7 @@
 > **Latest update**: update-Basic Template of Compass stucture
 
 ## 结构 Structure
-- **纯粹分类**
+- **纯粹分类** **pure-classification**
   
   上级：分类学
   > Superior: Taxonomy
@@ -17,7 +17,7 @@
   下级：Null(tentative)
   > Subordinate: null(tentative)
   
-- **模块属性**
+- **模块属性** **modulization**
   
   前置：分类学，哲学
   > Prerequisite: Taxonomy,Philosophy
