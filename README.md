@@ -25,7 +25,7 @@
   同类：Null(tentative)
   > Homotype: null(tentative)
   
-  下属：Null(tentative)
+  附属：Null(tentative)
   > belongling: null(tentative)
 
 ## 定义 Definition
