@@ -3,6 +3,7 @@
 
 ## 结构 Structure
 - **纯粹分类**
+  
   上级：分类学
   Superior: Taxonomy
 
@@ -11,7 +12,9 @@
 
   下级：Null(tentative)
   Subordinate: null(tentative)
+  
 - **模块属性**
+  
   前置：分类学，哲学
   Prerequisite: Taxonomy,Philosophy
 
@@ -44,6 +47,14 @@ Unit: an object, or event, or method.
 
 Unit Page: Description span of the unit.
 
+两个主要要素：意义和合理性。
+
+确保每个单元的副标题，都是单元的高级抽象部分；解释意义，并诠释其合理性。
+
+副标题的内容，建议分为两类：一类是高度抽象的、象征性的；另一种是对抽象事物的实际描述和解释。
+
 two main elements: meaning & rationality.
+
 ensure every subtitle of the unit, is a high level abstract part of the unit; explaining the meaning, providing rationality.
+
 the content of the subtitle, is recommended to be two types of parts: one highly abstract, symbolized; another is practical description, explaination of the abstract things.
