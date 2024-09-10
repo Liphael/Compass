@@ -63,6 +63,9 @@
 
 副标题的内容，建议分为两类：一类是高度抽象的、象征性的；另一种是对抽象事物的实际描述和解释。
 
+## 开源许可：
+
+The MIT License (MIT): https://opensource.org/license/mit/
 > two main elements: meaning & rationality.
 
 > ensure every subtitle of the unit, is a high level abstract part of the unit; explaining the meaning, providing rationality.
