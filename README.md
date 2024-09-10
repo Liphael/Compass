@@ -1,6 +1,5 @@
 # 指南针 Compass
-## ver: 1.0 basic
-
+## ver: 0.1.0-alpha
 **上次更新**：更新-指南针架构基本模板
 
 > **Latest update**: update-Basic Template of Compass stucture
