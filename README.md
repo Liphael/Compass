@@ -7,15 +7,15 @@
 ## 结构 Structure
 - **纯粹分类** **pure-classification** (R tree Structure)
   
-  上级：分类学
-  同级：数据库结构设计（暂定）
-  下级：Null(tentative)
+  上级：分类学<br>
+  同级：数据库结构设计（暂定）<br>
+  下级：Null(tentative)<br>
 
 纯粹分类的结构应当遵循**R Tree**的结构形式。
 
-  Superior: Taxonomy
-  Level: Database structure design(tentative)
-  Subordinate: null(tentative)
+  Superior: Taxonomy<br>
+  Level: Database structure design(tentative)<br>
+  Subordinate: null(tentative)<br>
   
 - **模块属性** **modulization**
   
