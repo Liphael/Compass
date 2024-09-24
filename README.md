@@ -8,24 +8,24 @@
 - **纯粹分类** **pure-classification** (R tree Structure)
   
   上级：分类学
-  > Superior: Taxonomy
-
   同级：数据库结构设计（暂定）
-  > Level: Database structure design(tentative)
-
   下级：Null(tentative)
-  > Subordinate: null(tentative)
+
+纯粹分类的结构应当遵循**R Tree**的结构形式。
+
+  Superior: Taxonomy
+  Level: Database structure design(tentative)
+  Subordinate: null(tentative)
   
 - **模块属性** **modulization**
   
   前置：分类学，哲学
-  > Prerequisite: Taxonomy,Philosophy
-
   同类：Null(tentative)
-  > Homotype: null(tentative)
-  
   附属：Null(tentative)
-  > belongling: null(tentative)
+  
+  Prerequisite: Taxonomy,Philosophy
+  Homotype: null(tentative)
+  Belongling: null(tentative)
 
 ## 定义 Definition
 知识库构建指导：“Compass”架构
