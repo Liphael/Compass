@@ -13,19 +13,19 @@
 
 纯粹分类的结构应当遵循**R Tree**的结构形式。
 
-  Superior: Taxonomy<br>
-  Level: Database structure design(tentative)<br>
-  Subordinate: null(tentative)<br>
+    Superior: Taxonomy<br>
+    Level: Database structure design(tentative)<br>
+    Subordinate: null(tentative)<br>
   
 - **模块属性** **modulization**
   
-  前置：分类学，哲学
-  同类：Null(tentative)
-  附属：Null(tentative)
+  前置：分类学，哲学<br>
+  同类：Null(tentative)<br>
+  附属：Null(tentative)<br>
   
-  Prerequisite: Taxonomy,Philosophy
-  Homotype: null(tentative)
-  Belongling: null(tentative)
+    Prerequisite: Taxonomy,Philosophy<br>
+    Homotype: null(tentative)<br>
+    Belongling: null(tentative)<br>
 
 ## 定义 Definition
 知识库构建指导：“Compass”架构
