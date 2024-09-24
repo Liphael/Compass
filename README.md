@@ -10,12 +10,12 @@
   上级：分类学<br>
   同级：数据库结构设计（暂定）<br>
   下级：Null(tentative)<br>
-
-纯粹分类的结构应当遵循**R Tree**的结构形式。
-
+  
     Superior: Taxonomy<br>
     Level: Database structure design(tentative)<br>
     Subordinate: null(tentative)<br>
+
+  纯粹分类的结构应当遵循**R Tree**的结构形式。
   
 - **模块属性** **modulization**
   
