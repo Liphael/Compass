@@ -1,0 +1,97 @@
+# 数学建模 Mathematical Modeling
+## ver: 0.1.0-alpha
+**上次更新**：20240924-基本内容
+
+> **Latest update**: 20240924-basic contents
+
+## 结构 Structure
+- **纯粹分类** **pure-classification**
+  
+  上级：[应用数学](https://github.com/Liphael/Compass/blob/main/OVERALL-Branchmap/2-Mathematics/03-Applied%20Mathematics/README.md)<br>
+  同级：[数学物理](https://github.com/Liphael/Compass/blob/main/OVERALL-Branchmap/2-Mathematics/03-Applied%20Mathematics/00-Mathematical%20Physics/README.md)，[数学化学](https://github.com/Liphael/Compass/blob/main/OVERALL-Branchmap/2-Mathematics/03-Applied%20Mathematics/01-Mathematical%20Chemistry/README.md)，等。<br>
+  下级：[变化建模](https://github.com/Liphael/Compass/blob/main/OVERALL-Branchmap/2-Mathematics/03-Applied%20Mathematics/01-Mathematical%20Chemistry/README.md)<br>
+  
+    Superior: <br>
+    Level: <br>
+    Subordinate: <br>
+
+- **模块属性** **modulization**
+  
+  前置：[动力系统]<br>
+  同类：Null(tentative)<br>
+  附属：Null(tentative)<br>
+  
+    Prerequisite: <br>
+    Homotype: <br>
+    Belongling: <br>
+
+## 定义 Definition
+根据实际问题，建立**数学模型**、并对其进行求解；依照模型结果反馈，解决实际问题。
+
+Based on actual problems, establish a mathematical model & solve it; Based on the feedback of the model results, solve practical problems.
+
+## 意义 Significance
+数学建模是一种数学的思考方法，是运用数学的语言和方法，通过抽象、简化建立能近似刻画并“解决”实际问题的一种强有力的数学手段。数学建模就是用数学语言描述实际现象的过程。这里的实际现象既包涵具体的自然现象比如自由落体现象，也包含抽象的现象比如顾客对某种商品所取的价值倾向。这里的描述不但包括外在形态、内在机制的描述，也包括预测、试验和解释实际现象等内容。
+
+数学模型一般是实际事物的一种数学简化。它常常是以某种意义上接近实际事物的抽象形式存在的，但它和真实的事物有着本质的区别。要描述一个实际现象可以有很多种方式，比如录音、录像、比喻、传言等等。为了使描述更具科学性、逻辑性、客观性和可重复性，人们采用一种普遍认为比较严格的语言来描述各种现象，这种语言就是数学。使用数学语言描述的事物就称为数学模型。有时候需要做一些实验，但这些实验往往用抽象出来了的数学模型作为实际物体的代替而进行相应的实验，实验本身也是实际操作的一种理论替代。
+
+Mathematical modeling is a mathematical thinking method that uses the language and methods of mathematics to establish a powerful mathematical tool that can approximate and "solve" practical problems through abstraction and simplification. Mathematical modeling is the process of describing actual phenomena using mathematical language. The actual phenomena here include both concrete natural phenomena such as free fall and abstract phenomena such as customers' value orientation towards a certain product. The description here not only includes descriptions of external forms and internal mechanisms, but also includes predictions, experiments, and explanations of actual phenomena.
+
+A mathematical model is generally a mathematical simplification of actual things. It often exists in an abstract form that is close to reality in some sense, but it has a fundamental difference from real things. There are many ways to describe an actual phenomenon, such as audio recordings, videos, metaphors, rumors, and so on. In order to make the description more scientific, logical, objective, and reproducible, people use a commonly considered strict language to describe various phenomena, which is mathematics. The things described in mathematical language are called mathematical models. Sometimes it is necessary to conduct experiments, but these experiments often use abstract mathematical models as substitutes for actual objects to conduct corresponding experiments. The experiments themselves are also a theoretical substitute for practical operations.
+
+## 实践教程 Tutorial
+### 申明必要概念 Declaration of necessary concepts
+
+为了避免产生不必要的疑惑，在此申明一些必要的概念，以提供任何可能所需的参照。
+
+To avoid unnecessary confusion, some necessary concepts are hereby declared to provide users with references may needed.
+
+<br><br>
+
+### 基本结构 Basic structure
+
+以下为**Compass**架构下，单位页面的基本内容：
+1. 结构<br>
+   结构部分应当由两个系列组成，即**纯粹分类**与**模块属性**。
+   1. **纯粹分类**：纯粹分类为你的总目录分级服务，应当严格服从总目录的分级分类；这是为了自下而上的顺序、以及追根溯源夯实知识基础的需要准备的。
+   2. **模块属性**：模块属性中将展示学习和理解该单位（对象）可能所需的前置要求，同类替代以及可选的拓展等；这是为了自上而下学习顺序、以及实际应用产生的灵活需求准备的。<br>
+2. （官方/公认）指导文件（或链接）<br>
+   当单位页面不值得花费更多精力来陈列不必要的信息，指导文件的链接可以方便提供额外的参考。<br>
+3. 抽象定义<br>
+   此为**抽象具象两极**（以下简称**两级**）中抽象的极端；<br>
+   应当追求逻辑严密和统一化下，最精炼的符号表达。<br>
+   它的意义在于：能熟练运用该抽象定义时，用于简化描述实际问题，寻找同质性和提高处理问题效率。<br>
+4. 抽象性质<br>
+   是基于上述抽象定义，对该对象的性质进行的符号化描述。<br>
+5. 辅以实际案例的详细说明<br>
+   是**两极**中具象的一极。事实上，抽象定义和抽象性质均来自于人对实际案例的总结过程（抽象过程）；<br>
+   这通常会是一个循环上升、依靠量来逐步优化的过程，很少能一蹴而就。<br>
+   因此，附录一些实际案例来辅助说明是必要的；<br>
+   此外，抽象定义和性质通常为作者所熟悉、对读者来说很陌生，辅以实际案例的说明才能优化读者的理解。<br>
+6. 辅以实际案例的应用<br>
+   辅以实际案例的详细说明用实际案例佐证该对象的性质，这里则给出应用的实际案例。<br><br>
+
+The following is the basic content of the **Unit Page** under the Compass architecture:
+1. structure<br>
+   The structural part should consist of two series, namely **pure classification** & **modulization**.
+   1. **Pure classification**: **pure classification** service for the general directory classification, it should strictly comply with the classification of the general directory. This is prepared for the bottom-up learning sequence, and the need to trace back and solidify the knowledge foundation.
+   2. **modulization**: **modulization** displays the prerequisite requirements, similar substitutions, and optional extensions that may be needed to grasp the unit (object). This is prepared for the top-down learning sequence, and flexible requirements generated by practical applications.<br>
+2. (Official/Recognized) Guidance Doc(or links)<br>
+   when the **Unit Page** is not worth investing in displaying unnecessary information, the links to other Tutorial can provide additional references conveniently.
+3. Abstract Definition(**Def**)<br>
+   this is the abstract pole of the two poles of abstraction and concreteness(**poles**);<br>
+   the most refined symbol expression, under logical rigor and uniformity, is what should be pursued.<br>
+   significance lies in: able to proficiently apply this **Def** to simplify the description of cases, find homogeneity among cases, thus improve efficiency.<br>
+4. Abstract Properties<br>
+   symbolic descriptions of the properties of the object, based on **Def** above.<br>
+5. Detailed explanation supplemented by practical cases<br>
+   the concrete pole of the **poles**. In fact, **Def** and abstract properties both come from summarization of actual cases(abstraction);<br>
+   this is usually a cyclical process that relies on quantity to gradually optimize, rarely can be accomplished at one stroke.<br>
+   thus necessary to provide some practical cases for explaination supplement;<br>
+   **Def** and abstract properties are often familiar to authors, but unfamiliar to readers. Just enhance the readers' understanding through practical case studies.
+6. Application supplemented by practical cases<br>
+   here u can present a practical application case as a exemplary role.<br><br>
+
+## 开源许可 License
+
+The MIT License (MIT): https://opensource.org/license/mit/
