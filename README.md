@@ -15,7 +15,7 @@
     Level: Database structure design(tentative)<br>
     Subordinate: null(tentative)<br>
 
-  纯粹分类的结构应当遵循**R Tree**的结构形式。
+注意：**纯粹分类**的结构，应当遵循**R Tree**的结构形式。
   
 - **模块属性** **modulization**
   
