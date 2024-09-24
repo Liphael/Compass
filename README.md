@@ -5,7 +5,7 @@
 > **Latest update**: update-Basic Template of Compass stucture
 
 ## 结构 Structure
-- **纯粹分类** **pure-classification** (R tree Structure)
+- **纯粹分类** **pure-classification** ([R tree Structure]())
   
   上级：分类学<br>
   同级：数据库结构设计（暂定）<br>
