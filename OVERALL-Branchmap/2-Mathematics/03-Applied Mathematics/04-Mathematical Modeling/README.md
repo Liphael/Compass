@@ -48,7 +48,7 @@ To avoid unnecessary confusion, some necessary concepts are hereby declared to p
 
 <br><br>
 
-### 基本结构 Basic structure
+### 基本流程 Workflow
 
 以下为**Compass**架构下，单位页面的基本内容：
 1. 结构<br>
@@ -91,7 +91,3 @@ The following is the basic content of the **Unit Page** under the Compass archit
    **Def** and abstract properties are often familiar to authors, but unfamiliar to readers. Just enhance the readers' understanding through practical case studies.
 6. Application supplemented by practical cases<br>
    here u can present a practical application case as a exemplary role.<br><br>
-
-## 开源许可 License
-
-The MIT License (MIT): https://opensource.org/license/mit/
