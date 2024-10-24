@@ -60,7 +60,6 @@
 > To avoid unnecessary confusion, some necessary concepts are hereby declared to provide users with references they may need when attempting to write a knowledge unit page using Compass for the first time.
 
 > **Unit**: an object, or event, or method. This is also the title of each sub-item among the repository, and the overall title of the knowledge object u want to record.
-
 > to sync with Microsoft's [GraphRAG](https://microsoft.github.io/graphrag/), the concept **Entity** in GraphRAG is similar with **Unit**. However, while they can be deemed equivalent, I personally recommend **Entity** being a subcategory of **Unit**. That's because **Community**, constructed by **Entities** and  **Relationships**, can also be a **Unit** here, having its own **Unit Page** which introducing itself.
 
 > **Unit Page**: Detailed description page of the unit. This is a page that provides a detailed description and knowledge record of the object in the library, where **Compass Structure** about to be applied.
