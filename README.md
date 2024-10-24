@@ -46,21 +46,24 @@
 
 为了避免产生不必要的疑惑，在此申明一些必要的概念，以提供使用者在首次尝试使用Compass撰写知识单位页面时、可能所需的参照。
 
-> To avoid unnecessary confusion, some necessary concepts are hereby declared to provide users with references they may need when attempting to write a knowledge unit page using Compass for the first time.
-
-单位：一个物件对象，或事件对象，或方法对象。这也是库结构中，每个子项的标题，是所记录知识对象的总标题。
-
-> **Unit**: an object, or event, or method. This is also the title of each sub-item among the repository, and the overall title of the knowledge object u want to record.
+单位：一个物件对象，或事件对象，或方法对象。这也是库结构中，每个子项的标题，是所记录知识对象的总标题。<br>
+为与微软的[GraphRAG](https://microsoft.github.io/graphrag/)项目同步概念，可以申明GraphRAG中的**实体**概念与此处**单元**概念是相似的。然而，虽然它们可以被视为等同的，但我个人建议将**实体**概念作为**单位**的子类别。这是因为**社区**概念（由**实体**和**关系**等等构建而成），**关系**概念等等在这里也可以是**单元**，并有自己的**单元页面**来介绍自己。
 
 单位页面：这个对象的详细信息页面。这是在库中对该对象展开详细描述和知识记录的页面，是指南针架构的应用处。
-
-> **Unit Page**: Detailed description page of the unit. This is a page that provides a detailed description and knowledge record of the object in the library, where **Compass Structure** about to be applied.
 
 两个主要要素：意义和合理性。
 
 确保每个单元的副标题，都是单元的高级抽象部分；解释意义，并诠释其合理性。
 
 副标题的内容，建议分为两类：一类是高度抽象的、象征性的；另一种是对抽象事物的实际描述和解释。
+
+> To avoid unnecessary confusion, some necessary concepts are hereby declared to provide users with references they may need when attempting to write a knowledge unit page using Compass for the first time.
+
+> **Unit**: an object, or event, or method. This is also the title of each sub-item among the repository, and the overall title of the knowledge object u want to record.
+
+> to sync with Microsoft's [GraphRAG](https://microsoft.github.io/graphrag/), the concept **Entity** in GraphRAG is similar with **Unit**. However, while they can be deemed equivalent, I personally recommend **Entity** being a subcategory of **Unit**. That's because **Community**, constructed by **Entities** and  **Relationships**, can also be a **Unit** here, having its own **Unit Page** which introducing itself.
+
+> **Unit Page**: Detailed description page of the unit. This is a page that provides a detailed description and knowledge record of the object in the library, where **Compass Structure** about to be applied.
 
 > two main elements: **meaning** & **rationality**.
 
