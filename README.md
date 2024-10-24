@@ -64,11 +64,11 @@
 > to sync with Microsoft's [GraphRAG](https://microsoft.github.io/graphrag/), the concept **Entity** in GraphRAG is similar with **Unit**. However, while they can be deemed equivalent, I personally recommend **Entity** being a subcategory of **Unit**. That's because **Community**, constructed by **Entities** and  **Relationships**, can also be a **Unit** here, having its own **Unit Page** which introducing itself.
 
 > **Unit Page**: Detailed description page of the unit. This is a page that provides a detailed description and knowledge record of the object in the library, where **Compass Structure** about to be applied.
-
-> two main elements: **meaning** & **rationality**.
-
+> 
+> two essential types of contents: **meaning** & **rationality** in **Unit Page**:
+> 
 > ensure every subtitle of the unit, is a high level abstract part of the unit; explaining the meaning, providing rationality.
-
+> 
 > the content of the subtitle, is recommended to be two types of parts: one highly abstract, symbolized; another is practical description, explaination of the abstract things.<br><br>
 
 ### 基本结构 Basic structure
