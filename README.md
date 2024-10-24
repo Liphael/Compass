@@ -8,11 +8,11 @@
 - **纯粹分类** **pure-classification** ([R tree Structure]())
   
   上级：分类学<br>
-  同级：数据库结构设计（暂定）<br>
+  同级：（计算机科学中的）索引构建<br>
   下级：Null(tentative)<br>
   
     Superior: Taxonomy<br>
-    Level: Database structure design(tentative)<br>
+    Level: Indexing(in computer science maybe?)<br>
     Subordinate: null(tentative)<br>
 
 注意：**纯粹分类**的结构，应当遵循**R Tree**的结构形式。
